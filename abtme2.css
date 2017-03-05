@@ -1,18 +1,16 @@
 .Header {
-	padding: 20px;
+	padding: 5px;
 	text-align: center;
-	background-color: gray;
-}
-.header2{
-	text-align: center;
-	padding: 30px;
-	background-color: gray;
+	font-family: times;
 }
 p {
-	font-family: cursive, sans-serif;
+	font-family: times;
 }
 @media (max-width: 600px) {
 			img {
 					display: none;
 				}
+			}
+			nav {
+				display: none;
 			}
