@@ -1,0 +1,28 @@
+body {
+	background-color: #028090;
+}
+.B {
+	padding: 20px;
+	font-family: cursive, sans-serif;
+	font-size: 20px;
+
+}
+img {
+	border: 8px solid black;
+	border-radius: 8px;
+	opacity: 2;
+	display: block;
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
+.A {
+	position: fixed;
+	left: 25px;
+	top: 25px;
+	margin: 20px;
+	border: 2px solid black;
+	padding: 10px;
+	font-family: cursive, sans-serif;
+}
